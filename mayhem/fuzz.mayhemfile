@@ -1,0 +1,4 @@
+project: aws-sdk-go
+target: fuzz
+cmds:
+- cmd: /out/fuzz
